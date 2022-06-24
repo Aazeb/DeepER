@@ -1,0 +1,12 @@
+Dataset: 	num_iterations	learning_rate	decay_rate	ent_vec_dim	rel_vec_dim	input_dropout	hidden_dropout	feature_map_dropout	label_smoothing  
+FB15k-237:	1000		0.00005		0.995		200		200		0.3		0.3		0.2			0.1
+WN18RR:		800		0.005		1.0		200		200		0.2		0.3		o.2			0.1
+YAGO3-10	800		0.003		0.99		200		200		0.2		0.3		0.2			0.1
+Codex-m		800		0.001		0.99		200		200		0.3		0.4		0.4			0.1
+FB15k		800		0.005		0.995		200		200		0.2		0.3		0.2			0.
+WN18		1000		0.001		1.0		200		200		0.2		0.3		0.2			0.1
+kinship		800		0.003		0.99		96		96		0.3		0.4		0.4			0.1
+FB-IMG		100		0.003		0.995		228		228		0.2		0.3		0.2			0.1
+WN9-IMG		100		0.001		1.0		228		228		0.4		0.5		0.4			0.1
+
+		

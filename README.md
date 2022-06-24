@@ -19,6 +19,8 @@ Available in hyperparameters.txt
 
 Access GrouPy (Pytorch) at https://github.com/adambielski/GrouPy 
 
+Unzip data.rar
+
 Access FB-IMG, WN9-IMG, and their pretrained embeddings at https://github.com/UKPLab/starsem18-multimodalKB 	
 
 ### Acknowledgment: 
